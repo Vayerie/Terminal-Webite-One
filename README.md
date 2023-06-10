@@ -7,7 +7,7 @@ Terminal Theme website design ^^
 - Responsive
 - User-yml, easy to change
 - Py Script
-- 
+
 ### Fork
 
 - Download [Python 3](https://python.org) 
