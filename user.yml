@@ -1,0 +1,78 @@
+# Welcome to Termplate
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ name }}, {{ email }}, and so on.
+# You can freely edit it here, if you don't know YAML, make sure to check
+# your YAML file using http://www.yamllint.com/
+
+name : Evelyn
+nickname : Eve, Evelynia
+title: Evelyn
+
+description: >
+  Enter Description Here...
+
+# You can customize this however you like
+social:
+  - media : Github
+    username : EvelynNakamura
+    link : https://github.com/EvelynNakamura
+#    description : Where I Contribute and Do Projects
+
+  - media : Discord
+    username : Exusiai#4748
+    link : discordapp.com/users/896252264019283988
+#    description : Where I socialize .w.
+
+  - media : Youtube
+    username : "@evelynia"
+    link : https://www.youtube.com/channel/UCRcP69gmak6A6tD_Pvhbcew
+#    description : Where I ask programming Questions
+
+  - media : Chess.com
+    username : Saileach
+    link : https://www.chess.com/member/saileach
+#    description : Where I can be found for recruiters
+
+  - media : Onlyfans
+    username : Evelynia
+    link : https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#    description : ...
+
+contact:
+  - method : Discord
+    address : Exusiai#4748
+
+projects :
+  - name : Clicker
+    description : A clicker game using HTML, Javascript, and CSS ^^
+    link : https://github.com/EvelynNakamura/Clicker-Game
+
+  - name : Weight On Planet
+    description : Calculates your weight on another planet using HTML, Javascript, and CSS ^^
+    link : https://github.com/EvelynNakamura/Weight-On-Planet-Calc
+
+  - name: Light Dark Mode
+    description: A light dark mode button template for website using CSS ^^
+    link: https://github.com/EvelynNakamura/Light-Dark-Mode
+
+  - name: Discord Bot - Pvc
+    description: Private voice channel systems for Discord servers ^^
+    link: https://github.com/EvelynNakamura/PrivateVoice-DcBot]
+
+  - name: Discord Bot - Kute
+    description: A music discord bot I made using lavalink ^^
+    link: https://github.com/EvelynNakamura/Kute-DcBot
+
+  - name: Discord Bot - Yay
+    description: A music discord bot I made that supports different languages and user settings ^^
+    link: https://github.com/EvelynNakamura/Yay-DcBot
+
+additional : |
+  Add Here
+
+#resume: https://drive.google.com/linktoyouresume
+
+history: |
+  Add Your Background / Story Here
